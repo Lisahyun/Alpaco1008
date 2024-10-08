@@ -9,7 +9,9 @@
  ![architecture](https://github.com/user-attachments/assets/256645aa-2ba5-4ed7-9002-901606a0f9ef)
 
 * 결과 이미지
-  ![output](https://github.com/user-attachments/assets/db7980bf-2d9c-468e-9595-62ede3ce0098)
+
+   ![output](https://github.com/user-attachments/assets/db7980bf-2d9c-468e-9595-62ede3ce0098)
+
 * 참고
   - Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. "Imagenet classification with deep convolutional neural networks." Advances in neural information processing systems 25 (2012).
 * 느낀점
